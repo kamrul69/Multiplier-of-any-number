@@ -1,1 +1,1 @@
-# Multiplyer-of-any-number
+# Multiplier-of-any-number
